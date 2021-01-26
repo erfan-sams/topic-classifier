@@ -2,5 +2,5 @@
 
 classifier for prediction topics
 
-my dataset is NewsBBC News Classification
+my dataset is BBC News Classification
 News Articles Categorization [a link](https://www.kaggle.com/c/learn-ai-bbc/data) 
